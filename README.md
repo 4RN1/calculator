@@ -10,13 +10,19 @@ Hello , This is a calculator app with a basic UI design and JavaScript logic. Fo
 
 ## Installation
 
-Describe how to install or run your project.  
-Example:
+
+To run this project locally:
+
 ```bash
 git clone https://github.com/yourusername/your-repo.git
 cd your-repo
-open index.html in your browser
 ```
+
+Then, open `index.html` in your web browser.
+
+**Requirements:**
+- No additional dependencies needed.
+- Make sure all files (HTML, CSS, JS, and assets) are in the same folder structure as provided.
 
 ## new ideas
 - add square root button (√)
