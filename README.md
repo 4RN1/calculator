@@ -5,8 +5,8 @@ Hello , This is a calculator app with a basic UI design and JavaScript logic. Fo
 ## Features
 
 - Basic calculator functions (addition , subtraction, multiplication , and division)
-- Added more functions (percent , plus/minus )
-- Added GIF display button for fun
+- More advanced functions (percent , plus/minus )
+- GIF display button for fun
 
 ## Installation
 
